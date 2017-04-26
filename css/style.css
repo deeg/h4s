@@ -38,6 +38,10 @@
 */
 
 
+.light-opacity {
+    opacity: 0.5;
+}
+
 
 /* Global Style */
 
@@ -1018,9 +1022,7 @@ ul.portfolio li.active {
 }
 
 .contact-us-detail {
-    position: absolute;
-    left: 83%;
-    top: -4%;
+    text-align: center;
     background-color: #4c9cef;
     padding: 10px 20px;
     border-radius: 5px;
@@ -1118,6 +1120,10 @@ ul.portfolio li.active {
 
 .facebook {
    background-color: #3b5998;
+}
+
+.twitch {
+    background-color: #6441A4;
 }
 
 .twitter {
